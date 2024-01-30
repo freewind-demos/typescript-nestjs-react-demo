@@ -7,6 +7,7 @@ export class AppController {
 
   @Get()
   getHello(): string {
+    // NOTE return data will be used in public/index.html if possible
     return this.appService.getHello();
   }
 }
