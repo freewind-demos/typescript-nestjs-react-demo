@@ -20,4 +20,4 @@ Is there any easier way to develop react in nestjs, e.g. ignore the bundling ste
 pnpm 
 ```
 
-Then open http://localhost:3000
+Then open the url in the output
