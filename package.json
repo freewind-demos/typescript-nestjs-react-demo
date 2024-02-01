@@ -1,7 +1,7 @@
 {
-    "scripts": {
-        "start": "pnpm run start:client && pnpm run start:server",
-        "start:client": "cd client && pnpm i && pnpm run build",
-        "start:server": "cd server && pnpm i && pnpm start"
-    }
+  "scripts": {
+    "start": "pnpm run start:client && pnpm run start:server",
+    "start:client": "cd client && pnpm i && pnpm run build",
+    "start:server": "cd server && pnpm i && pnpm start"
+  }
 }
